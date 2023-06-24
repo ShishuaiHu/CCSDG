@@ -1,5 +1,7 @@
 # 📄 Devil is in Channels: Contrastive Single Domain Generalization for Medical Image Segmentation ($C^2SDG$) 
 
+#### [Paper](https://arxiv.org/abs/2306.05254)
+
 <p align="center"><img src="figures/overview.png" width="90%"></p>
 
 ### Data Preparation
